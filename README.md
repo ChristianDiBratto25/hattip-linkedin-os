@@ -35,3 +35,7 @@ These are bundled Claude skills. Plain English requests work too.
 ## Product scope
 
 V2 capabilities are part of this initial starter. The UI is the Claude Code terminal. Do not promise virality, engagement, or leads. Draft quality depends on what the author actually knows and shares.
+
+## License
+
+MIT. Free to use, modify and share. See [LICENSE](LICENSE). The linked reference posts belong to their authors and are not covered by this license.
