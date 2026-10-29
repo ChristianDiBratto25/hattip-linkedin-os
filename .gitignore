@@ -1,0 +1,6 @@
+workspace/*
+!workspace/.gitkeep
+.DS_Store
+*.pyc
+__pycache__/
+.env
