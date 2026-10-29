@@ -1,40 +1,48 @@
 # Hat Tip LinkedIn OS
 
-A guided, local-first LinkedIn strategy and writing system for Claude Code. No web application, no publishing automation, no source tracker.
+A LinkedIn strategy and writing system that runs inside the Claude app. It interviews you about your business, builds a funnel strategy you approve, plans a month of post ideas, and helps you write and edit posts in your own voice.
 
-## Start
+No install, no terminal, no code.
 
-1. Install [Claude Code](https://code.claude.com/docs/en/overview) and authenticate.
-2. Download or clone this repository.
-3. In a terminal, change into the repository folder and run `claude`.
-4. Say **Start my LinkedIn strategy**. The assistant begins a conversational onboarding and saves your progress locally.
+## Set it up (2 minutes)
 
-You can return later and ask: `Plan my next month`, `Interview me for post 04`, `Review this post`, `Find timely topics for my ICP`, or `Review my performance CSV`.
+1. **Download the skill:** [hattip-linkedin-os.zip](https://github.com/ChristianDiBratto25/hattip-linkedin-os/raw/main/hattip-linkedin-os.zip). Don't unzip it.
+2. **Turn on file creation:** in Claude, go to **Settings > Capabilities** and switch on **Code execution and file creation**.
+3. **Upload it:** go to **Customize > Skills**, click **+**, then **Create skill > Upload a skill**, and pick the zip.
+4. **Start:** open a new chat and type **Start my LinkedIn strategy**.
+
+Works on Claude Free, Pro, Max, Team and Enterprise, on the web and desktop apps. On Team and Enterprise, your admin may need to allow custom skills.
+
+**Tip:** do this inside a Claude Project (for example "My LinkedIn"). As Claude hands you your onboarding, strategy and calendar files, add them to the project's files. Every future chat in that project will pick up where you left off.
 
 ## What it does
 
-1. Interviews you about your business, ICP, position, voice and constraints.
-2. Builds an approved 40/40/20 TOF/MOF/BOF strategy with 3 to 4 useful buckets per stage.
-3. Builds 20 detailed post opportunities, schedules the appropriate number for a month and links relevant reference examples.
-4. Runs a specific source interview and CPIO plan before drafting.
-5. Edits drafts using the Hat Tip quality bar and humanizing rules, returning PASS / REVISE / RETHINK.
-6. Runs weekly editorial interviews, timely-topic research when browsing is available, duplication checks, and monthly CSV-based performance reviews.
+1. Interviews you about your business, ICP, positioning, voice and constraints.
+2. Builds a 40/40/20 top, middle and bottom of funnel strategy with 3 to 4 buckets per stage.
+3. Builds 20 post ideas, schedules the right number for your cadence, and links relevant reference posts.
+4. Interviews you for the real story behind a post, plans it with the CPIO framework, then drafts it.
+5. Reviews drafts against the Hat Tip quality bar and returns PASS, REVISE or RETHINK.
+6. Runs weekly content interviews, finds timely topics for your ICP, and reviews a performance CSV if you export one.
+
+Once it's set up, you can also just ask: `Plan my next month`, `Interview me for post 4`, `Review this post`, `Find timely topics for my ICP`, or `Review my performance CSV`.
+
+## What it won't do
+
+It doesn't post to LinkedIn or connect to your account. It won't invent stats, client stories or quotes. A draft is only as strong as what you tell it, so it will ask for real details. Nothing here promises virality, engagement or leads.
+
+## What's in the repo
+
+- `hattip-linkedin-os.zip`: the file you upload to Claude
+- `hattip-linkedin-os/`: the same skill, unzipped, if you want to read or change it
+  - `SKILL.md`: the main instructions
+  - `workflows/`: onboarding, strategy, ideas, writing, review, weekly, research, performance
+  - `knowledge/`: the CPIO framework, LinkedIn methods, funnel strategy, editorial rules, reference posts
+  - `templates/`: formats for the files it saves
+- `build.sh`: rebuilds the zip after you edit the skill
 
 ## Data and privacy
 
-`workspace/` is ignored by git and remains on your machine unless you deliberately share it. Do not commit client transcripts or proprietary files. This public starter uses only selected reference links, not the agency's private historical writing database. Check rights and permissions before distributing further examples.
-
-No LinkedIn integration is bundled. Performance CSVs are optional. Fresh research requires Claude Code's available web capabilities and should be marked unavailable when browsing is not possible. The tool never claims to have verified a live claim without doing so.
-
-## Suggested commands
-
-`/start` `/strategy` `/ideas` `/write` `/review` `/weekly` `/research` `/performance`
-
-These are bundled Claude skills. Plain English requests work too.
-
-## Product scope
-
-V2 capabilities are part of this initial starter. The UI is the Claude Code terminal. Do not promise virality, engagement, or leads. Draft quality depends on what the author actually knows and shares.
+Your answers stay in your own Claude account. Nothing is sent to Hat Tip. The reference library only links to public LinkedIn posts; it doesn't include anyone's private writing.
 
 ## License
 
