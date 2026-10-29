@@ -4,7 +4,21 @@ A LinkedIn strategy and writing system that runs inside the Claude app. It inter
 
 No install, no terminal, no code.
 
-## Set it up (2 minutes)
+## Try it now (10 seconds)
+
+Open a new chat in [Claude](https://claude.ai) and paste this:
+
+```
+Read https://raw.githubusercontent.com/ChristianDiBratto25/hattip-linkedin-os/main/START.md and run it with me.
+```
+
+It'll start interviewing you right away. Web search needs to be on in Claude (it's on by default).
+
+To pick up later, paste the same line into a new chat along with the documents it gave you.
+
+## Use it every week: install the skill (2 minutes)
+
+If you'll come back to this often, install it as a skill. Then you just type "Start my LinkedIn strategy" in any chat, with nothing to paste.
 
 1. **Download the skill:** [hattip-linkedin-os.zip](https://github.com/ChristianDiBratto25/hattip-linkedin-os/raw/main/hattip-linkedin-os.zip). Don't unzip it.
 2. **Turn on file creation:** in Claude, go to **Settings > Capabilities** and switch on **Code execution and file creation**.
@@ -32,7 +46,8 @@ It doesn't post to LinkedIn or connect to your account. It won't invent stats, c
 
 ## What's in the repo
 
-- `hattip-linkedin-os.zip`: the file you upload to Claude
+- `START.md`: everything in one page, for the paste-a-line quick start
+- `hattip-linkedin-os.zip`: the file you upload to Claude as a skill
 - `hattip-linkedin-os/`: the same skill, unzipped, if you want to read or change it
   - `SKILL.md`: the main instructions
   - `workflows/`: onboarding, strategy, ideas, writing, review, weekly, research, performance
