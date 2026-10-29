@@ -95,7 +95,7 @@ After drafting, check the post against the plan: it achieves the Convey goal, th
 
 ## Methods that are working on LinkedIn now
 
-A format never rescues a weak idea. Use these as approaches, not templates. Reference links are public posts; they may have been removed, so don't claim a link is live unless you checked.
+A format never rescues a weak idea. Use these as approaches, not templates. Reference links are public posts; they may have been removed, so don't claim a link is live unless you checked. Example posts are public posts we think illustrate each method well. Their authors aren't affiliated with this project, and listing a post doesn't mean Hat Tip wrote it or works with its author. Never describe any reference author as Hat Tip's client or as connected to Hat Tip.
 
 - Strategic Tag: write a process or idea you'd give a specific person and tag them naturally. They read it, and if they comment you reach their audience. Example: https://www.linkedin.com/posts/dibratto_if-matthew-shwery-co-founder-of-koala-needed-share-7307369974061273088-mAjp/
 - Industry Prediction: a non-obvious, plausible, justified prediction about the space. Example: https://www.linkedin.com/feed/update/urn:li:activity:7428075684587282432/

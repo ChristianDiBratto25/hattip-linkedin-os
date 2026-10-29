@@ -28,7 +28,7 @@ What should the reader understand after reading this post?
 
 What part of the source material supports that idea?
 
-What result should the post create for the client?
+What result should the post create for the author?
 
 The last question must have a literal answer. Examples include building trust, showing expertise, sharing a founder story, explaining a process, or creating discussion around a real opinion.
 
@@ -68,7 +68,7 @@ Do not use unsupported numbers, timeframes, results, or claims to make the packa
 
 Do not use a formulaic structure when a more natural structure fits the source better.
 
-Before moving forward, confirm that the package fits the client, the idea, and the available evidence.
+Before moving forward, confirm that the package fits the author, the idea, and the available evidence.
 
 CPIO OUTPUT:
 
@@ -84,7 +84,7 @@ Now decide which information the post needs.
 
 Use only information that supports the Convey and Package decisions.
 
-Pull the required information from the transcript, client files, project context, approved research, or other verified sources.
+Pull the required information from the transcript, the author's files, project context, approved research, or other verified sources.
 
 Do not add information because it sounds useful.
 
@@ -174,9 +174,9 @@ Read the draft for natural flow.
 
 Remove unnecessary words.
 
-Preserve the client’s actual voice, opinions, experience, and level of certainty.
+Preserve the author’s actual voice, opinions, experience, and level of certainty.
 
-Do not make the client sound more certain, emotional, controversial, or successful than the source supports.
+Do not make the author sound more certain, emotional, controversial, or successful than the source supports.
 
 Do not invent transitions between facts when the source does not support the connection.
 

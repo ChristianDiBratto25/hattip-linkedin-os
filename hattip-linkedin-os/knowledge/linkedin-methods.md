@@ -13,6 +13,8 @@ We’ve tested everything we can think of to generate the right reach for client
 
 The next few tabs detail our findings. Each “method” is a specific post type we’re seeing land well.
 
+Example posts are public posts we think illustrate each method well. Their authors aren't affiliated with this project, and listing a post doesn't mean Hat Tip wrote it or works with its author.
+
 ***PS \- If you’re a tech founder or agency owner and want my team to write your LinkedIn content to drive awareness and pipeline, book a free call [here](https://calendly.com/hattip/30min).***
 
 # Strategic Tag
@@ -30,7 +32,7 @@ Humans are curious. If you get tagged in a post, you read the post. While demons
 
 **Examples:**
 
-[Christian Di Bratto](https://www.linkedin.com/posts/dibratto_if-matthew-shwery-co-founder-of-koala-needed-share-7307369974061273088-mAjp/) (this booked a call).
+[Christian Di Bratto](https://www.linkedin.com/posts/dibratto_if-matthew-shwery-co-founder-of-koala-needed-share-7307369974061273088-mAjp/)
 
 # Industry Prediction
 
