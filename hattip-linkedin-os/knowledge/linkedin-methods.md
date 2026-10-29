@@ -13,7 +13,7 @@ We’ve tested everything we can think of to generate the right reach for client
 
 The next few tabs detail our findings. Each “method” is a specific post type we’re seeing land well.
 
-Example posts are public posts we think illustrate each method well. Their authors aren't affiliated with this project, and listing a post doesn't mean Hat Tip wrote it or works with its author.
+Example posts are public posts we think illustrate each method well. Apart from Christian Di Bratto's own posts, their authors aren't affiliated with this project, and listing a post doesn't mean Hat Tip wrote it or works with its author.
 
 ***PS \- If you’re a tech founder or agency owner and want my team to write your LinkedIn content to drive awareness and pipeline, book a free call [here](https://calendly.com/hattip/30min).***
 

@@ -57,7 +57,7 @@ It doesn't post to LinkedIn or connect to your account. It won't invent stats, c
 
 ## Data and privacy
 
-Your answers stay in your own Claude account. Nothing is sent to Hat Tip. The reference library only links to public LinkedIn posts; it doesn't include anyone's private writing. Example posts are public posts we think illustrate each method well. Their authors aren't affiliated with this project, and listing a post doesn't mean Hat Tip wrote it or works with its author.
+Your answers stay in your own Claude account. Nothing is sent to Hat Tip. The reference library only links to public LinkedIn posts; it doesn't include anyone's private writing. Example posts are public posts we think illustrate each method well. Apart from Christian Di Bratto's own posts, their authors aren't affiliated with this project, and listing a post doesn't mean Hat Tip wrote it or works with its author.
 
 ## License
 
