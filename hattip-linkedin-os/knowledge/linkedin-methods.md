@@ -85,8 +85,8 @@ For one, tech stacks in general tend to get saved by people who want to come bac
 
 **Examples:**
 
-[Tyler Leber](http://linkedin.com/posts/tyler-leber_every-software-we-use-while-growing-coconut-activity-7282425805391945728-mmuw)  
-[Michael Lieben](https://www.linkedin.com/posts/michel-lieben_the-average-b2b-saas-team-ran-15-25-gtm-tools-activity-7469703041211060226-Idj9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)
+[Tyler Leber](https://www.linkedin.com/posts/tyler-leber_every-software-we-use-while-growing-coconut-activity-7282425805391945728-mmuw)  
+[Michel Lieben](https://www.linkedin.com/posts/michel-lieben_the-average-b2b-saas-team-ran-15-25-gtm-tools-activity-7469703041211060226-Idj9)
 
 # Unique Mechanism
 
@@ -109,8 +109,8 @@ Promising an outcome and creating a curiosity gap as to how you'll get there wil
 
 **Examples:**
 
-[Lara Acosta](https://www.linkedin.com/posts/laraacostar_my-100kyear-content-framework-audience-share-7137417816533536768-BtXD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)  
-[Mischa Collins](https://www.linkedin.com/posts/mischa-collins_ive-generated-4601837-impressions-in-12-share-7478040035599106049-Fk1k/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)
+[Lara Acosta](https://www.linkedin.com/posts/laraacostar_my-100kyear-content-framework-audience-share-7137417816533536768-BtXD/)  
+[Mischa Collins](https://www.linkedin.com/posts/mischa-collins_ive-generated-4601837-impressions-in-12-share-7478040035599106049-Fk1k/)
 
 # Tweet Screenshot
 
@@ -132,8 +132,8 @@ The tweet itself acts as a visual hook, plus your stance, whether agreeing or di
 **Examples:**
 
 [Christian Di Bratto](https://www.linkedin.com/feed/update/urn:li:share:7422281546683912193/)  
-[Omer Mullick](https://www.linkedin.com/posts/omermullick_one-of-the-best-cold-emails-this-person-activity-7480991717710639104-CCA-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)  
-[Max Langlois](https://www.linkedin.com/posts/maximilien-langlois_can-we-collectively-acknowledge-that-the-activity-7480599098346311680-Sbuj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)
+[Omer Mullick](https://www.linkedin.com/posts/omermullick_one-of-the-best-cold-emails-this-person-activity-7480991717710639104-CCA-)  
+[Max Langlois](https://www.linkedin.com/posts/maximilien-langlois_can-we-collectively-acknowledge-that-the-activity-7480599098346311680-Sbuj)
 
 # News Headline
 
@@ -150,8 +150,8 @@ Aside from making you a trusted resource to your ICP, you get to lean on the com
 
 **Examples:**
 
-[Justin Wohlstadter](https://www.linkedin.com/posts/justinw_wpp-spent-many-many-millions-building-open-activity-7467576531536625664-vfVU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)  
-[Justin Wohlstadter](https://www.linkedin.com/posts/justinw_wpp-open-omni-ai-havas-converge-every-activity-7480259460230279170-dlyP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjNINABMJ-HLCWatFAKwVkzVr6FeS58UeY)
+[Justin Wohlstadter](https://www.linkedin.com/posts/justinw_wpp-spent-many-many-millions-building-open-activity-7467576531536625664-vfVU)  
+[Justin Wohlstadter](https://www.linkedin.com/posts/justinw_wpp-open-omni-ai-havas-converge-every-activity-7480259460230279170-dlyP)
 
 # Bad Tactic Callout
 
@@ -168,8 +168,7 @@ As is with what makes the rest of these work, these are very prone to drive comm
 
 **Examples:**
 
-[Nick Abraham](https://www.linkedin.com/posts/darrenmckeesales_if-my-boss-asked-me-to-book-a-meeting-with-share-7287807816935878656-2hx7/)  
-[Nick Abraham](https://www.linkedin.com/feed/update/urn:li:activity:7454956411047944192/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7454956411047944192%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+[Nick Abraham](https://www.linkedin.com/feed/update/urn:li:activity:7454956411047944192/)
 
 # "If I Were"
 

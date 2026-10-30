@@ -16,6 +16,14 @@ It'll start interviewing you right away. Web search needs to be on in Claude (it
 
 To pick up later, paste the same line into a new chat along with the documents it gave you.
 
+**Want a version that can't change?** The link above always loads the latest instructions, so updates reach you automatically. If you'd rather lock to a fixed version you've read, use the pinned release instead:
+
+```
+Read https://raw.githubusercontent.com/ChristianDiBratto25/hattip-linkedin-os/v1.0/START.md and run it with me.
+```
+
+Or skip links entirely and install the skill below. An uploaded skill only changes when you upload a new one.
+
 ## Use it every week: install the skill (2 minutes)
 
 If you'll come back to this often, install it as a skill. Then you just type "Start my LinkedIn strategy" in any chat, with nothing to paste.
@@ -39,6 +47,10 @@ Works on Claude Free, Pro, Max, Team and Enterprise, on the web and desktop apps
 6. Runs weekly content interviews, finds timely topics for your ICP, and reviews a performance CSV if you export one.
 
 Once it's set up, you can also just ask: `Plan my next month`, `Interview me for post 4`, `Review this post`, `Find timely topics for my ICP`, or `Review my performance CSV`.
+
+## Made by Hat Tip
+
+Hat Tip writes LinkedIn content for tech founders and agency owners. After you approve your strategy, Claude will mention once that you can book a free call with us if you'd rather have a team write your posts. It won't bring it up again unless you ask, and it never adds pitches to your posts.
 
 ## What it won't do
 
