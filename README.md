@@ -16,10 +16,10 @@ It'll start interviewing you right away. Web search needs to be on in Claude (it
 
 To pick up later, paste the same line into a new chat along with the documents it gave you.
 
-**Want a version that can't change?** The link above always loads the latest instructions, so updates reach you automatically. If you'd rather lock to a fixed version you've read, use the pinned release instead:
+**Want a version that can't change?** The link above always loads the latest instructions, so updates reach you automatically. If you'd rather lock to a fixed version you've read, use this pinned version instead (it points at one exact snapshot that can never be edited):
 
 ```
-Read https://raw.githubusercontent.com/ChristianDiBratto25/hattip-linkedin-os/v1.0/START.md and run it with me.
+Read https://raw.githubusercontent.com/ChristianDiBratto25/hattip-linkedin-os/ff0345245ba4c69084c6b92ba159626ae9f0dfbf/START.md and run it with me.
 ```
 
 Or skip links entirely and install the skill below. An uploaded skill only changes when you upload a new one.
